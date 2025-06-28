@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# IDE - JetBrains
+.idea/
+
+# Model files (large downloads)
+model/
+
+# Python package includes (compiled headers)
+include/
+
+# Man pages and docs
+share/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and runtime
+*.log
+*.so
+
+# Test caches
+.pytest_cache/
